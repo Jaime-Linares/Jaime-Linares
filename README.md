@@ -1,5 +1,5 @@
 <a href="https://komarev.com/ghpvc/?username=Jaime-Linares">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Jaime-Linares&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=Jaime-Linares&label=Profile_visitors&color=red&style=flat" alt="Profile visitor" />
 </a>
 
 <!-- Intro  -->
