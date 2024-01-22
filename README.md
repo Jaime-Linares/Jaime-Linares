@@ -43,7 +43,7 @@
   ![Python](https://img.shields.io/badge/Pyhton-%233776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&labelColor=black)
   ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&labelColor=black&color=blue)
-  ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=linux&labelColor=black&color=green)
+  ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&labelColor=dark&color=green)
   
 </div>
 
