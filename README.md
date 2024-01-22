@@ -59,6 +59,11 @@
           <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jaime-Linares's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jaime-Linares&show_icons=true&count_private=true&theme=dark&custom_title=Jaime-Linares's+GitHub+Stats" height="192px"/></a>
           <br/>
         </div>
+        <p align="center">
+          <a href="https://github.com/JuanAntonioMorenoMoguel/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-Linares&langs_count=6&theme=nord_bright&layout=compact&hide_border=true" alt="Jaime-Linares :: Top Langs" />
+          </a>
+       </p>
   </div>    
 
 <h2 align="center"> 📈 Activity Graph </h2>
