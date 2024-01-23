@@ -59,7 +59,7 @@
           <br/>
         </div>
         <p align="center">
-          <a href="https://github.com/JuanAntonioMorenoMoguel/">
+          <a href="https://github.com/Jaime-Linares/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-Linares&langs_count=6&theme=nord_bright&layout=compact&hide_border=true" alt="Jaime-Linares :: Top Langs" />
           </a>
        </p>
