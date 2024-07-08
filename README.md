@@ -21,7 +21,7 @@
       <a href="https://linkedin.com/in/jaime-linares-barrera" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://mailto:jaimelinaresbarrera@gmail.com" target="blank"><img align="center"
+      <a href="mailto:jaimelinaresbarrera@gmail.com"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
