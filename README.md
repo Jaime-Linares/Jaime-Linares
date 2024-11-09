@@ -53,7 +53,8 @@
   <div>
     <h2 align="center"> 📊 Github stats </h2>
         <div align="center">
-          <a href="https://git.io/streak-stats"><img alt="Jaime-Linares's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaime-Linares&theme=dark" height="192px"/></a>
+          <a href="https://git.io/streak-stats"><img alt="Jaime-Linares's GitHub Streak" src="https://streak-stats.demolab.com/?user=Jaime-Linares&theme=dark" height="192px"/></a>
+          <br/>
           <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jaime-Linares's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jaime-Linares&show_icons=true&count_private=true&theme=dark&custom_title=Jaime-Linares's+GitHub+Stats" height="192px"/></a>
           <br/>
         </div>
