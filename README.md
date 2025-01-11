@@ -1,12 +1,13 @@
+<!-- Profile visitors -->
 <a href="https://komarev.com/ghpvc/?username=Jaime-Linares">
   <img align="right" src="https://komarev.com/ghpvc/?username=Jaime-Linares&label=Profile_visitors&color=red&style=flat" alt="Profile visitor" />
 </a>
+
 
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am Jaime Linares</samp>
 </h3>
-
 
 <p align="center"> 
   <samp>
@@ -14,6 +15,7 @@
     <br>
   </samp>
 </p>
+
 
 <!-- Contact Section -->
 <h2 align="center">You can contact me at:</h2>
@@ -27,9 +29,11 @@
       <br>
     </p>
 
+
+<!-- Hard skills -->
 ## Coding Knowledge
 <div align ="center">
-  
+
   ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -44,27 +48,34 @@
   ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&labelColor=black&color=blue)
   
 </div>
-
 <br/>
 
 
 <!-- Stats Section -->
+<div style="text-align: center; margin-top: 20px;">
+    <h2>📊 GitHub stats</h2>
+    <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+        <!-- Primer rectángulo negro -->
+        <a href="https://git.io/streak-stats">
+            <img alt="Jaime-Linares's GitHub Streak"
+                src="https://streak-stats.demolab.com/?user=Jaime-Linares&theme=dark" height="175px" />
+        </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img alt="Jaime-Linares's GitHub Stats"
+                src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jaime-Linares&show_icons=true&count_private=true&theme=dark&custom_title=Jaime-Linares's+GitHub+Stats"
+                height="175px" />
+        </a>
+    </div>
+    <p style="margin-top: 20px;">
+        <a href="https://github.com/Jaime-Linares/">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-Linares&langs_count=6&theme=nord_bright&layout=compact&hide_border=true"
+                alt="Jaime-Linares :: Top Langs" />
+        </a>
+    </p>
+</div>   
 
-  <div>
-    <h2 align="center"> 📊 Github stats </h2>
-        <div align="center">
-          <a href="https://git.io/streak-stats"><img alt="Jaime-Linares's GitHub Streak" src="https://streak-stats.demolab.com/?user=Jaime-Linares&theme=dark" height="192px"/></a>
-          <br/>
-          <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jaime-Linares's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jaime-Linares&show_icons=true&count_private=true&theme=dark&custom_title=Jaime-Linares's+GitHub+Stats" height="192px"/></a>
-          <br/>
-        </div>
-        <p align="center">
-          <a href="https://github.com/Jaime-Linares/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-Linares&langs_count=6&theme=nord_bright&layout=compact&hide_border=true" alt="Jaime-Linares :: Top Langs" />
-          </a>
-       </p>
-  </div>    
 
+<!-- Activity Graph -->
 <h2 align="center"> 📈 Activity Graph </h2>
 <div align="center">
   
