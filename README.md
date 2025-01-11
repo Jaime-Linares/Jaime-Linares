@@ -2,18 +2,19 @@
 <a href="https://komarev.com/ghpvc/?username=Jaime-Linares">
   <img align="right" src="https://komarev.com/ghpvc/?username=Jaime-Linares&label=Profile_visitors&color=red&style=flat" alt="Profile visitor" />
 </a>
+<br>
+<br>
 
 
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am Jaime Linares</samp>
-</h3>
+<h1 align="center">👋🏻 Hi, I'm Jaime Linares 👋🏻</h1>
+<img src="./my_intro.png">
 
-<p align="center"> 
-  <samp>
-    「 I am a software engineer from <b>Spain</b> 」
-    <br>
-  </samp>
+<p align="center">
+
+- I am studying the degree in Computer Engineering - Software Engineering at the University of Seville. 
+- I am interested in Machine Learning, Data Science and in Software Development.
+- You can visit some of my projects on my profile.
 </p>
 
 
