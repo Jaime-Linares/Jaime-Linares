@@ -8,14 +8,16 @@
 
 <!-- Intro  -->
 <h1 align="center">👋🏻 Hi, I'm Jaime Linares 👋🏻</h1>
-<img src="./my_intro.png">
-
-<p align="center">
-
-- I am studying the degree in Computer Engineering - Software Engineering at the University of Seville. 
-- I am interested in Machine Learning, Data Science and in Software Development.
-- You can visit some of my projects on my profile.
-</p>
+<div align="center">
+  <img src="./my_intro.png">
+  
+  <p>
+    
+  I am studying the degree in Computer Engineering-Software Engineering at the University of Seville. I am interested in Machine Learning, Data Science and in Software Development.
+  
+  You can visit some of my projects on my profile.
+  </p>
+</div>
 
 
 <!-- Contact Section -->
@@ -81,7 +83,7 @@
 
 <!-- Stats Section -->
 <div style="text-align: center; margin-top: 20px;">
-  <h2>📊 GitHub stats 📊</h2>
+  <h2 align="center">📊 GitHub stats 📊</h2>
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
     <a href="https://git.io/streak-stats">
       <img alt="Jaime-Linares's GitHub Streak"
