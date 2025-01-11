@@ -76,24 +76,24 @@
 
 <!-- Stats Section -->
 <div style="text-align: center; margin-top: 20px;">
-    <h2>📊 GitHub stats</h2>
-    <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-        <a href="https://git.io/streak-stats">
-            <img alt="Jaime-Linares's GitHub Streak"
-                src="https://streak-stats.demolab.com/?user=Jaime-Linares&theme=dark" height="175px" />
-        </a>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img alt="Jaime-Linares's GitHub Stats"
-                src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jaime-Linares&show_icons=true&count_private=true&theme=dark&custom_title=Jaime-Linares's+GitHub+Stats"
-                height="175px" />
-        </a>
-    </div>
-    <p style="margin-top: 20px;">
-        <a href="https://github.com/Jaime-Linares/">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-Linares&langs_count=6&theme=nord_bright&layout=compact&hide_border=true"
-                alt="Jaime-Linares :: Top Langs" />
-        </a>
-    </p>
+  <h2>📊 GitHub stats 📊</h2>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <a href="https://git.io/streak-stats">
+      <img alt="Jaime-Linares's GitHub Streak"
+          src="https://streak-stats.demolab.com/?user=Jaime-Linares&theme=dark" height="175px" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Jaime-Linares's GitHub Stats"
+          src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Jaime-Linares&show_icons=true&count_private=true&theme=dark&custom_title=Jaime-Linares's+GitHub+Stats"
+          height="175px" />
+    </a>
+  </div>
+  <p style="margin-top: 20px;">
+    <a href="https://github.com/Jaime-Linares/">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-Linares&langs_count=6&theme=nord_bright&layout=compact&hide_border=true" 
+      alt="Jaime-Linares :: Top Langs" />
+    </a>
+  </p>
 </div>   
 
 
