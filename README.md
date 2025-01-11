@@ -44,12 +44,12 @@
   <h3 align="center">🤖 Data Science 🤖</h3>
 
   ![NumPy](https://img.shields.io/badge/numpy-333333?style=for-the-badge&logo=NumPy&logoColor=000000&labelColor=AFEEEE)
-  ![pandas](https://img.shields.io/badge/pandas-4682B4?style=for-the-badge&logo=pandas&logoColor=000000&labelColor=FFFFFF)
+  ![pandas](https://img.shields.io/badge/pandas-4682B4?style=for-the-badge&logo=pandas&logoColor=000000&labelColor=EEEEEE)
   ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![Keras](https://img.shields.io/badge/keras-FFFFFF?style=for-the-badge&logo=Keras&logoColor=FFFFFF&labelColor=FF0000)
+  ![Keras](https://img.shields.io/badge/keras-EEEEEE?style=for-the-badge&logo=Keras&logoColor=FFFFFF&labelColor=FF0000)
   ![spaCy](https://img.shields.io/badge/spaCy-4682B4?style=for-the-badge&logoColor=333333&labelColor=D3D3D3)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![Dask](https://img.shields.io/badge/dask-FFFFFF?style=for-the-badge&logo=dask&logoColor=FF0000&labelColor=000000)
+  ![Dask](https://img.shields.io/badge/dask-EEEEEE?style=for-the-badge&logo=dask&logoColor=FF0000&labelColor=000000)
 
   <h3 align="center">🌐 Web Development 🌐</h3>
 
@@ -72,8 +72,8 @@
 
   ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&labelColor=black&color=blue)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Vagrant](https://img.shields.io/badge/vagrant-D3D3D3?style=for-the-badge&logo=vagrant&logoColor=0000FF&labelColor=FFFFFF)
-  ![Static Badge](https://img.shields.io/badge/ansible-44444?style=for-the-badge&logo=ansible&logoColor=FFFFFF&labelColor=000000)
+  ![Vagrant](https://img.shields.io/badge/vagrant-D3D3D3?style=for-the-badge&logo=vagrant&logoColor=0000FF&labelColor=EEEEEE)
+  ![Static Badge](https://img.shields.io/badge/ansible-44444?style=for-the-badge&logo=ansible&logoColor=EEEEEE&labelColor=000000)
   ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&labelColor=black)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   
