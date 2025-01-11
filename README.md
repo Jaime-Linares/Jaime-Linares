@@ -18,7 +18,7 @@
 
 
 <!-- Contact Section -->
-<h2 align="center">You can contact me at:</h2>
+<h2 align="center">📩 You can contact me at: 📩</h2>
     <p align="center">
       <a href="https://linkedin.com/in/jaime-linares-barrera" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -55,7 +55,6 @@
 <div style="text-align: center; margin-top: 20px;">
     <h2>📊 GitHub stats</h2>
     <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-        <!-- Primer rectángulo negro -->
         <a href="https://git.io/streak-stats">
             <img alt="Jaime-Linares's GitHub Streak"
                 src="https://streak-stats.demolab.com/?user=Jaime-Linares&theme=dark" height="175px" />
