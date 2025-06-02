@@ -11,7 +11,7 @@
   
   <p>
     
-  I am studying the degree in Computer Engineering-Software Engineering at the University of Seville. I am interested in Machine Learning, Data Science and in Software Development.
+  I hold a Bachelor's degree in Computer Engineering–Software Engineering from the University of Seville. I am interested in Machine Learning, Data Science and in Software Development.
   
   You can visit some of my projects on my profile.
   </p>
