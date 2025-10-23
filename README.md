@@ -104,7 +104,7 @@
   </table>
   <p align="center">
     <a href="https://github.com/Jaime-Linares/">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-Linares&langs_count=6&theme=nord_bright&layout=compact&hide_border=true" 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-Linares&hide_progress=true&theme=dark" 
       alt="Jaime-Linares :: Top Langs" />
     </a>
   </p>
