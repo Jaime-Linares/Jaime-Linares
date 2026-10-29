@@ -11,7 +11,7 @@
   
   <p>
     
-  I hold a Bachelor's degree in Software Engineering from the University of Seville, as well as a Master's degree in Data and Software Engineering. I am interested in Data Science, Data Engineering, and Software Development.
+  I hold a Bachelor's degree in Software Engineering from the University of Seville, as well as a Master's degree in Data and Software Engineering. I am currently pursuing a PhD in Computer Science, focusing on Data Science and Artificial Intelligence. My main areas of interest include Data Science, Data Engineering, Artificial Intelligence, and Software Development.
 
   
   You can visit some of my projects on my profile.
@@ -71,9 +71,11 @@
   <h3 align="center">🛠️ Data Engineering 🛠️</h3>
 
   ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-  ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
   ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+  ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
   ![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+  ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+  ![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=airbyte&logoColor=white)
 
   <h3 align="center">🌐 Web Development 🌐</h3>
 
@@ -101,7 +103,6 @@
 
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
   ![Vagrant](https://img.shields.io/badge/vagrant-D3D3D3?style=for-the-badge&logo=vagrant&logoColor=0000FF&labelColor=EEEEEE)
   ![Ansible](https://img.shields.io/badge/ansible-44444?style=for-the-badge&logo=ansible&logoColor=EEEEEE&labelColor=000000)
   ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&labelColor=black)
